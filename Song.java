@@ -7,6 +7,10 @@ public class Song {
         this.length = length;
     }
 
+    public Song() {
+        
+    }
+
     public String getTitle() {
         return title;
     }
